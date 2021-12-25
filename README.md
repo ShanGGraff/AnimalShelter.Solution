@@ -1,6 +1,6 @@
 # Animal Shelter API
 
-#### An basic API for an animal shelter that can be used to list avaiable cats and dogs at the shelter available for adoption. 
+#### A basic API for an animal shelter that can be used to list available cats and dogs at the shelter available for adoption. 
 
 #### **By Shane Graff**
 
